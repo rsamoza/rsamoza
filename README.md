@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rsamoza
 
 - 👀 I’m interested in full stack development and hope that one day will have an oportunity to realize this passion...
-I will be looking to collaborate with you all somedayto build an awesome web design.
+I will be looking to collaborate with you all someday to build an awesome project.
 
 - 🌱 I’m currently learning HTML, CSS, Git and in the near future will be delving on Javascript, JSON, APIs, Node.js, SQL, Express.js, React, MERn, MVC
 and much more...
